@@ -1,6 +1,4 @@
-Certainly! Here's a concise version of the `README.md`:
 
----
 
 #  Payment Microservice in Rust using gRPC
 
